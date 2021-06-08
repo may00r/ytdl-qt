@@ -1,3 +1,3 @@
 # YT-downloader Qt
-<p>Qt gui for youtube_dl</p>
+Qt gui for youtube_dl\
 ![YTDL GUI screenshot](./ytdl-screen.png)
